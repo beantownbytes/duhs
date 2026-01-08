@@ -110,8 +110,6 @@ def create_progress() -> Progress:
 def main(ctx):
     """duhs - Find the largest files and directories.
 
-    A portable replacement for ducks/ducksdir bash functions.
-
     \b
     Examples:
         duhs files              # Top 10 largest files in current dir
